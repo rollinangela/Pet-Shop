@@ -1,24 +1,6 @@
 # Paws & Claws Pet Shop
 
-A modern, responsive pet shop website where users can browse and search for adoptable pets.
 
-![Pet Shop Website](https://i.pinimg.com/736x/3b/21/9f/3b219f7b54f526e9002bad4fdb034203.jpg)
-
-## Features
-
-- **Browse Pet Listings**: View a gallery of pets with name, age, and status information
-- **Search Functionality**: Search for pets by name
-- **Filter Options**: Filter pets by status (available, adopted, pending)
-- **Sorting Options**: Sort pets by latest, name, or age
-- **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop
-- **Pet Details**: View detailed information about each pet
-
-## Technologies Used
-
-- **Frontend**: React, TypeScript, TailwindCSS, shadcn UI components
-- **Backend**: Express.js
-- **State Management**: React Query
-- **Routing**: wouter
 
 ## Getting Started
 
